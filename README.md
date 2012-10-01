@@ -15,4 +15,4 @@ Edit the provided `rubyrc.rb` to your liking.
 This is where you put your former `.bashrc` customizations.
 
 # Should I Use This? #
-Probably not. I stopped using it after a year. Until it includes a way to write bash **functions** in ruby, via some kind of parameter-passing scheme, it doesn't save you from as much bash agony as I'd hoped.
+Probably not. I stopped using it after a year. Until it includes a way to write bash **functions** in Ruby, via some kind of parameter-passing scheme, it doesn't save you from as much bash agony as I'd hoped.
