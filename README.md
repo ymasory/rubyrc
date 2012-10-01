@@ -6,7 +6,7 @@ Every time you open a new terminal, Ruby will read your `rubyrc.rb` and translat
 ```bash
 cd
 git clone https://github.com/ymasory/rubyrc.git
-mv ~/.bashrc ~/.bashrc.bak
+mv ~/.bashrc ~/.bashrc-before-rubryc
 ln -s ~/rubyrc/bashrc.bash ~/.bashrc
 ```
 
